@@ -1,0 +1,6 @@
+framework module miituoLib {
+  umbrella header "miituoLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
